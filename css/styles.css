@@ -1,0 +1,613 @@
+.ul-style {
+  margin: 0;
+  padding-top: 55px;
+  padding-left: 470px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 100;
+  color: #E4F9F5;
+  text-decoration: none;
+}
+
+.disp-inline {
+  display: inline;
+  padding: 0 18px;
+}
+
+.header-info {
+  background-color: #1d2d50;
+  position: relative;
+  height: 80px;
+}
+
+.head-note {
+  position: absolute;
+  left: 130px;
+  font-size: 30px;
+  font-family: 'Sacramento', cursive, serif;
+  font-weight: lighter;
+  top: 13px;
+  color: #E4F9F5;
+}
+
+.head-note2 {
+  position: absolute;
+  left: 190px;
+  font-size: 15px;
+  top: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: #E4F9F5;
+}
+
+.top4-container {
+  background-color: #1d2d50;
+  position: relative;
+  height: 800px;
+}
+
+.s1_top1 {
+  position: absolute;
+  left: 150px;
+  top: 80px;
+  width: 1.125rem;
+}
+
+.s1_top2 {
+  position: absolute;
+  left: 450px;
+  top: 120px;
+  width: 1.125rem;
+}
+
+.s1_top3 {
+  position: absolute;
+  right: 650px;
+  top: 30px;
+  width: 1.125rem;
+}
+
+.s1_top4 {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+  width: 1.125rem;
+}
+
+.s1_top5 {
+  position: absolute;
+  right: 380px;
+  top: 160px;
+  width: 1.125rem;
+}
+
+.s1_top6 {
+  position: absolute;
+  right: 650px;
+  top: 190px;
+  width: 1.125rem;
+}
+
+.s1_top7 {
+  position: absolute;
+  right: 70px;
+  top: 190px;
+  width: 1.125rem;
+}
+
+.s1_top8 {
+  position: absolute;
+  left: 50px;
+  top: 290px;
+  width: 1.125rem;
+}
+
+.intro_quote {
+  position: absolute;
+  top: 220px;
+  left: 130px;
+  font-size: 2.8rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #E4F9F5;
+}
+
+.intro_quote_2 {
+  position: absolute;
+  top: 290px;
+  left: 130px;
+  font-size: 2.8rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #E4F9F5;
+}
+
+.s2_bot1 {
+  position: absolute;
+  right: 80px;
+  top: 400px;
+  width: 2.125rem;
+}
+
+.s2_bot2 {
+  position: absolute;
+  left: 210px;
+  top: 230px;
+  width: 2.125rem;
+}
+
+.s2_top1 {
+  position: absolute;
+  left: 150px;
+  bottom: 80px;
+  width: 1.125rem;
+}
+
+.s2_top2 {
+  position: absolute;
+  left: 450px;
+  bottom: 120px;
+  width: 1.125rem;
+}
+
+.s2_top3 {
+  position: absolute;
+  right: 650px;
+  bottom: 30px;
+  width: 1.125rem;
+}
+
+.s2_top4 {
+  position: absolute;
+  right: 250px;
+  bottom: 40px;
+  width: 1.125rem;
+}
+
+.s2_top5 {
+  position: absolute;
+  right: 380px;
+  bottom: 160px;
+  width: 1.125rem;
+}
+
+.s2_top6 {
+  position: absolute;
+  right: 650px;
+  bottom: 190px;
+  width: 1.125rem;
+}
+
+.s2_top7 {
+  position: absolute;
+  right: 70px;
+  bottom: 190px;
+  width: 1.125rem;
+}
+
+.s2_top8 {
+  position: absolute;
+  left: 50px;
+  bottom: 290px;
+  width: 1.125rem;
+}
+
+.s3_mid1 {
+  position: absolute;
+  left: 250px;
+  bottom: 310px;
+  width: 1.125rem;
+}
+
+.s3_mid2 {
+  position: absolute;
+  left: 750px;
+  bottom: 360px;
+  width: 1.125rem;
+}
+
+.s3_mid3 {
+  position: absolute;
+  right: 320px;
+  bottom: 290px;
+  width: 1.125rem;
+}
+
+.s3_mid4 {
+  position: absolute;
+  left: 520px;
+  bottom: 290px;
+  width: 1.125rem;
+}
+
+.top3-container {
+  background-color: #133b5c;
+  position: relative;
+  height: 800px;
+}
+
+.t2_top5 {
+  position: absolute;
+  left: 280px;
+  top: 190px;
+  width: 0.8rem;
+}
+
+.t2_top6 {
+  position: absolute;
+  left: 600px;
+  top: 150px;
+  width: 0.8rem;
+}
+
+.t2_top7 {
+  position: absolute;
+  right: 460px;
+  top: 90px;
+  width: 0.8rem;
+}
+
+.t2_top8 {
+  position: absolute;
+  right: 150px;
+  top: 130px;
+  width: 0.8rem;
+}
+
+.t3_mid1 {
+    position: absolute;
+    left: 370px;
+    top: 30px;
+    width: 0.8rem;
+}
+
+.t3_mid2 {
+    position: absolute;
+    right: 290px;
+    top: 310px;
+    width: 0.8rem;
+}
+
+.t3_mid3 {
+    position: absolute;
+    left: 560px;
+    top: 290px;
+    width: 0.8rem;
+}
+
+.t3_mid4 {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    width: 0.8rem;
+}
+
+.t3_mid5 {
+  position: absolute;
+  right: 550px;
+  top: 400px;
+  width: 0.8rem;
+}
+
+.intro {
+  position: absolute;
+  top: 220px;
+  left: 150px;
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  color: #E4F9F5;
+}
+
+.intro_2 {
+  position: absolute;
+  top: 320px;
+  left: 220px;
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  color: #E4F9F5;
+}
+
+.t2_bot1 {
+  position: absolute;
+  left: 60px;
+  top: 70px;
+  width: 1rem;
+}
+
+.t1_top1 {
+  position: absolute;
+  right: 70px;
+  bottom: 280px;
+  width: 0.8rem;
+}
+
+.t1_top2 {
+  position: absolute;
+  right: 330px;
+  bottom: 110px;
+  width: 0.8rem;
+}
+
+.t1_top3 {
+  position: absolute;
+  left: 720px;
+  bottom: 180px;
+  width: 0.8rem;
+}
+
+.t1_top4 {
+  position: absolute;
+  left: 420px;
+  bottom: 60px;
+  width: 0.8rem;
+}
+
+.t1_top5 {
+  position: absolute;
+  left: 50px;
+  bottom: 200px;
+  width: 0.8rem;
+}
+
+/* About Me */
+.top2-container {
+  background-color: #0278ae;
+  position: relative;
+  height: 800px;
+}
+
+/* My Skills */
+.top1-container {
+  background-color: #51adcf;
+  position: relative;
+  height: 800px;
+}
+
+/* My Experiences */
+.top-container {
+  background-color: #a5ecd7;
+  position: relative;
+  height: 800px;
+}
+
+/* My Projects */
+.project-container {
+  background-color: #E4F9F5;
+  position: relative;
+  height: 800px;
+}
+
+.middle-container {
+  background-color: #E4F9F5;
+  position: relative;
+  height: 600px;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.contact-container {
+  position: relative;
+  height: 200px;
+  background-color: #1d2d50;
+}
+
+.boat-img {
+  position: absolute;
+  bottom: 185px;
+  left: 100px;
+  width: 80px;
+}
+
+.ship-img {
+  position: absolute;
+  bottom: 190px;
+  right: 150px;
+  width: 80px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  /* 16px = 100% = 1em */
+  /* 90px = 562.5% = 5.625em */
+  /* rem is more safer to use than em */
+  font-size: 5.625rem;
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive, serif;
+  font-weight: lighter;
+  color: #1d2d50;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: #1d2d50;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  position: absolute;
+  left: 600px;
+  color: #E4F9F5;
+  bottom: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.aero-img {
+  position: absolute;
+  bottom: 200px;
+  right: 510px;
+  width: 100px;
+}
+
+.sun-char {
+  position: absolute;
+  left: 80px;
+  bottom: 280px;
+  width: 150px;
+}
+
+.m-c-left-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 80px;
+}
+
+.m-c-right-cloud {
+  position: absolute;
+  right: 200px;
+  bottom: 180px;
+}
+
+.head_1-4 {
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  position: absolute;
+  /* left to right: 1340px */
+  /* Center: 670px */
+  left: 480px;
+  margin-top: 15px;
+  color: #E4F9F5;
+}
+
+.head_2-4 {
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  position: absolute;
+  /* left to right: 1340px */
+  /* Center: 670px */
+  left: 490px;
+  margin-top: 15px;
+  color: #1d2d50;
+}
+
+.head_3-4 {
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  position: absolute;
+  /* left to right: 1340px */
+  /* Center: 670px */
+  left: 420px;
+  margin-top: 15px;
+  color: #1d2d50;
+}
+
+.head_4-4 {
+  font-size: 5.625rem;
+  font-weight: lighter;
+  font-family: 'Sacramento', cursive, serif;
+  position: absolute;
+  /* left to right: 1340px */
+  /* Center: 670px */
+  left: 470px;
+  margin-top: 15px;
+  color: #1d2d50;
+}
+
+.tbl-1 {
+  position: absolute;
+  margin-top: 170px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.tbl-2 {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 105px;
+}
+
+.sal-img {
+  width: 180px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.p_contact {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  position: absolute;
+  bottom: 15px;
+  left: 550px;
+}
+
+.footer-link_1 {
+  position: absolute;
+  bottom: 60px;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  left: 500px;
+  text-decoration: none
+}
+
+.footer-link_2 {
+  position: absolute;
+  bottom: 60px;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  left: 630px;
+  text-decoration: none
+}
+
+.footer-link_3 {
+  position: absolute;
+  bottom: 60px;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  left: 780px;
+  text-decoration: none
+}
